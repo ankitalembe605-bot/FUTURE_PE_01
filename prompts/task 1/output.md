@@ -30,3 +30,15 @@ Tone: Friendly, Professional, Modern.
 Human-Check: All generic AI-isms (like "unlocking a world of flavor") were removed and replaced with specific, local benefits (like "high-speed fiber Wi-Fi"
 
 site Demo:https://lovable.dev/projects/b1ffa120-31f6-448c-b0a0-1be374a0e51e
+<img width="913" height="677" alt="image" src="https://github.com/user-attachments/assets/16dcfe95-f118-41c5-ad90-174231b548b8" />
+<img width="891" height="584" alt="image" src="https://github.com/user-attachments/assets/f227602d-df29-4983-a41e-02ccaec2f66b" />
+<img width="839" height="434" alt="image" src="https://github.com/user-attachments/assets/14051788-495e-4d83-b1dd-bd52d91d2985" />
+<img width="875" height="482" alt="image" src="https://github.com/user-attachments/assets/2fd21f55-2e94-465e-9eef-d5bb9e2a037e" />
+<img width="906" height="683" alt="image" src="https://github.com/user-attachments/assets/41c4aa41-2de9-4026-af14-a0ea6fb92fd8" />
+<img width="908" height="685" alt="image" src="https://github.com/user-attachments/assets/531f35fd-8045-4750-94d9-7f6885228f98" />
+
+
+
+
+
+
